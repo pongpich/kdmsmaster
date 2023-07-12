@@ -1,0 +1,30 @@
+.addicon1 {
+    align-self: center;
+}
+
+.doctoridfonteng {
+    font-weight: 600;
+}
+.doctoridfontthai {
+    font-size: small;
+}
+
+.addiconlogo {
+    cursor: pointer;
+}
+
+.yellowbg {
+    background-color: #F2F5E7;
+}
+
+.formbox1 {
+    padding: 20px;
+    border-bottom: groove;
+    font-weight: bold;
+    font-size: 30px;
+}
+
+.new {
+    background-color: #F2F5E7;
+
+}

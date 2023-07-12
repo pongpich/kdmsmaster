@@ -1,0 +1,128 @@
+.logo-container {
+    top: 10%;
+    padding-top: 7%;
+    position: absolute;
+    width: 40%;
+    height: 80%;
+    background: transparent 0% 0% no-repeat padding-box;
+}
+
+.logo-milestone {
+    width: 100%;
+    height: 100%;
+    position: relative;
+}
+
+.title-container {
+    left: 45%;
+    width: 55%;
+    height: 50%;
+    position: relative;
+}
+
+.title-name {
+    text-align: left;
+    font: normal normal normal 80px/155px Prompt;
+    letter-spacing: 10.3px;
+    color: #31598E;
+    opacity: 1;
+}
+
+.art-board {
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    background: #EFEFEF 0% 0% no-repeat padding-box;
+}
+
+.subtitle-name {
+    top: 0px;
+    left: 812px;
+    width: 504px;
+    height: 61px;
+    text-align: left;
+    font: normal normal normal 40px/61px Prompt;
+    letter-spacing: 4px;
+    color: #CBCBCB;
+    opacity: 1;
+}
+
+.line-login {
+    margin-top: 0px;
+    left: 813px;
+    width: 906px;
+    height: 0px;
+    border: 1px solid #707070;
+    opacity: 1;
+}
+
+.user-input {
+    top: 552px;
+    left: 819px;
+    width: 434px;
+    height: 38px;
+    text-align: left;
+    font: normal normal 100 25px/38px Prompt;
+    letter-spacing: 2.5px;
+    color: #A8A4A4;
+    border: none;
+    background-color: transparent;
+    outline: none;
+    margin-bottom: 0px;
+    opacity: 1;
+
+}
+
+::placeholder {
+    color: #CBCBCB;
+}
+
+.password-input {
+    top: 553px;
+    left: 150px;
+    width: 334px;
+    height: 38px;
+    text-align: left;
+    font: normal normal 100 25px/38px Prompt;
+    letter-spacing: 2.5px;
+    color: #A8A4A4;
+    border: none;
+    background-color: transparent;
+    outline: none;
+    margin-bottom: 0px;
+    opacity: 1;
+}
+
+.rectangle {
+    top: 682px;
+    left: 1481px;
+    width: 238px;
+    height: 81px;
+    margin-left: 670px;
+    background: #7FA1CE 0% 0% no-repeat padding-box;
+    border-radius: 40px;
+    outline: none;
+    border: none;
+    color: #FFFFFF;
+    font: normal normal 100 25px/38px Prompt;
+    opacity: 1;
+}
+
+.path-password {
+    top: 304px;
+    padding-left: 0px;
+    left: 147px;
+    width: 56px;
+    height: 56px;
+    margin-bottom: 0px;
+}
+
+* {
+
+    -webkit-box-sizing: border-box;
+
+    -moz-box-sizing: border-box;
+
+    box-sizing: border-box;
+
+}

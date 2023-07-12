@@ -1,0 +1,79 @@
+.bg-blue {
+  background-color: #7fa1ce;
+}
+.bg-header {
+  background-color: #f8f7f7;
+}
+.card-header {
+  width: 100%;
+}
+.blue-dark {
+  color: #0d1fa8;
+  font-weight: 800;
+}
+
+/* card blue */
+
+.blue {
+  background-color: #7fa1ce;
+  color: #0d1fa8;
+  font-weight: 800;
+}
+.blue .add {
+  background-color: #1d1fa8;
+  color: #ffff;
+}
+.blue .cicle {
+  background-color: #7fa1ce;
+  border: #0d1fa8 1px solid;
+  color: #ffff;
+}
+.blue.cardborder {
+  border: #0d1fa8 1px solid;
+}
+/* card green */
+.green {
+  background-color: #7fcea7;
+  color: #00620c;
+  font-weight: 800;
+}
+.green .add {
+  background-color: #079d19;
+  color: #ffff;
+}
+.green .cicle {
+  background-color: #7fcea7;
+  border: #00620c 1px solid;
+  color: #ffff;
+}
+.green.cardborder {
+  border: #00620c 1px solid;
+}
+/* card yellow */
+.yellow {
+  background-color: #f9be4a;
+  color: #625e00;
+  font-weight: 800;
+}
+.yellow .add {
+  background-color: #f2a816;
+  color: #ffff;
+}
+.yellow .cicle {
+  background-color: #f9be4a;
+  border: #f2a816 1px solid;
+  color: #ffff;
+}
+.yellow.cardborder {
+  border: #f2a816 1px solid;
+}
+
+.hp-80 {
+  height: 26rem;
+}
+h-fullcon {
+  height: 95vh;
+}
+.w50 {
+  width: 54%;
+}
